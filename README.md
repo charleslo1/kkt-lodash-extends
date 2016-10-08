@@ -1,4 +1,4 @@
-# lodash-extends
+# kkt-lodash-extends
 lodash函数扩展
 
 目前已扩展的函数：
