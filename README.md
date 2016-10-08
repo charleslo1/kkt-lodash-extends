@@ -28,7 +28,7 @@ _.removeByKeys(obj, [0, 2]);
 
 使用示例：
 ```
-// 移除指定的对象属性
+// 清除对象值
 var obj = {name: 'nike', age: 22, isMale: true};
 _.clearValues(obj);
 // 输出：obj = {name: '', age: 0, isMale: false}
