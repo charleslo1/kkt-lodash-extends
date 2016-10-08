@@ -1,0 +1,27 @@
+{
+  "name": "kkt-lodash-extends",
+  "version": "1.0.2",
+  "description": "lodash函数扩展",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleslo1/lodash-extends.git"
+  },
+  "keywords": [
+    "lodash",
+    "extends",
+    "mixins"
+  ],
+  "author": "CharlesLo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charleslo1/lodash-extends/issues"
+  },
+  "homepage": "https://github.com/charleslo1/lodash-extends#readme",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
+}
