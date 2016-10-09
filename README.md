@@ -19,7 +19,7 @@ _.removeByKeys(obj, ['a', 'c']);
 
 // 移除指定的数组项
 var arr = [1, 2, 3, 4, 5, 6];
-_.removeByKeys(obj, [0, 2]);
+_.removeByKeys(arr, [0, 2]);
 // 输出：arr = [2, 4, 5, 6]
 ```
 
